@@ -16,6 +16,7 @@
         <module>epicycles</module>
         <module>maze</module>
         <module>flocking</module>
+        <module>toothpicks</module>
     </modules>
 
     <properties>
