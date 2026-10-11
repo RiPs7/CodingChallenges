@@ -15,6 +15,7 @@
     <modules>
         <module>epicycles</module>
         <module>maze</module>
+        <module>flocking</module>
     </modules>
 
     <properties>
