@@ -17,6 +17,7 @@
         <module>maze</module>
         <module>flocking</module>
         <module>toothpicks</module>
+        <module>starfield</module>
     </modules>
 
     <properties>
