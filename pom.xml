@@ -18,6 +18,7 @@
         <module>flocking</module>
         <module>toothpicks</module>
         <module>starfield</module>
+        <module>snake</module>
     </modules>
 
     <properties>
