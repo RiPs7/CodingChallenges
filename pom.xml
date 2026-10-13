@@ -19,6 +19,7 @@
         <module>toothpicks</module>
         <module>starfield</module>
         <module>snake</module>
+        <module>minesweeper</module>
     </modules>
 
     <properties>
