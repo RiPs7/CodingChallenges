@@ -20,6 +20,7 @@
         <module>starfield</module>
         <module>snake</module>
         <module>minesweeper</module>
+        <module>perceptron</module>
     </modules>
 
     <properties>
