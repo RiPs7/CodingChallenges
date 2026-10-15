@@ -22,6 +22,7 @@
         <module>minesweeper</module>
         <module>perceptron</module>
         <module>neuralnetwork</module>
+        <module>colorpredictor</module>
     </modules>
 
     <properties>
