@@ -15,4 +15,13 @@
 
     <artifactId>neuralnetwork</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.rips7</groupId>
+            <artifactId>lib</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
+
+
 </project>

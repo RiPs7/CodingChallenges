@@ -1,6 +1,6 @@
 package com.rips7;
 
-import com.rips7.model.NeuralNetwork;
+import com.rips7.lib.neuralnetwork.NeuralNetwork;
 import com.rips7.sketchkit.render.Sketch;
 
 import java.awt.Color;

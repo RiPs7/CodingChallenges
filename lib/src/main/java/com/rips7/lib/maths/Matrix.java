@@ -1,4 +1,4 @@
-package com.rips7.maths;
+package com.rips7.lib.maths;
 
 import com.rips7.sketchkit.maths.Maths;
 

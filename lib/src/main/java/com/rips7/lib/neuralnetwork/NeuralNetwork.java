@@ -1,6 +1,6 @@
-package com.rips7.model;
+package com.rips7.lib.neuralnetwork;
 
-import com.rips7.maths.Matrix;
+import com.rips7.lib.maths.Matrix;
 
 import java.util.ArrayList;
 import java.util.List;
