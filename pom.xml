@@ -21,6 +21,7 @@
         <module>snake</module>
         <module>minesweeper</module>
         <module>perceptron</module>
+        <module>neuralnetwork</module>
     </modules>
 
     <properties>
