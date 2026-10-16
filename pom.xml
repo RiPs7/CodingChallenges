@@ -23,6 +23,7 @@
         <module>perceptron</module>
         <module>neuralnetwork</module>
         <module>colorpredictor</module>
+        <module>steering</module>
     </modules>
 
     <properties>
