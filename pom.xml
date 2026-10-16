@@ -24,6 +24,7 @@
         <module>neuralnetwork</module>
         <module>colorpredictor</module>
         <module>steering</module>
+        <module>steeringevolution</module>
     </modules>
 
     <properties>
