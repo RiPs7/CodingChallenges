@@ -25,6 +25,7 @@
         <module>colorpredictor</module>
         <module>steering</module>
         <module>steeringevolution</module>
+        <module>travellingsalesperson</module>
     </modules>
 
     <properties>
