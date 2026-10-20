@@ -26,6 +26,7 @@
         <module>steering</module>
         <module>steeringevolution</module>
         <module>travellingsalesperson</module>
+        <module>travellingsalespersonga</module>
     </modules>
 
     <properties>
