@@ -27,6 +27,7 @@
         <module>steeringevolution</module>
         <module>travellingsalesperson</module>
         <module>travellingsalespersonga</module>
+        <module>raycasting</module>
     </modules>
 
     <properties>
